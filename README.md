@@ -1,1 +1,1 @@
-remot repo creation
+remote repo creation
